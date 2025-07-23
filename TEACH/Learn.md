@@ -195,7 +195,7 @@ int main() {
 }
 ```
 
-### 🧠 Explanation:
+### 🧠 Explanation of study:
 
 * Used `struct` to group student data
 * Collected data using a `for` loop
